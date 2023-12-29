@@ -1,0 +1,44 @@
+.text-box>h3:first-child {
+    color: pink;
+}
+
+#greycol {
+    color: gray;
+}
+
+div>p:nth-child(1) {
+    color: red;
+}
+
+div>p:nth-child(7) {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.first-child:hover,
+:focus {
+    color: aquamarine;
+}
+
+.only-child2:hover,
+:focus {
+    color: brown;
+}
+
+.nth-child-3:hover,
+:focus {
+    color: darkmagenta;
+}
+
+.only-child:hover,
+:focus {
+    color: lawngreen;
+}
+
+.last-child:hover,
+:focus {
+    color: rgb(243, 219, 3);
+}
